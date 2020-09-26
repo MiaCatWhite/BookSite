@@ -1,0 +1,231 @@
+.navbar{
+	background-color:#424242;
+	min-height:20px;
+	border-radius: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.navbar-nav>li>a {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.MyColorNavA{
+	color:#f8f8f8;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.MyColorTwoNavbar{
+	color:#292929;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+.MyBorder> li > a:hover,
+.MyBorder> li > a:focus
+{	
+	color:#f5f5f5;
+	background-color:#292929;
+	
+}
+
+.MyBorderTwo> li > a:hover,
+.MyBorderTwo> li > a:focus
+{	
+	color:#f5f5f5;
+	background: linear-gradient(to bottom, #91d573, #7bb461);
+	cursor:pointer;
+	border-radius: 0px;
+}
+
+.MyRow{
+	margin-top:20px;
+	
+}
+
+.MyPadding{
+	padding-left: 0px;
+}
+
+.MyPadding2{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.MyMarginLeft {
+	margin-left:20px;
+	
+}
+
+.MyMarginLeft3{
+	margin-left:50px;
+	margin-top: 20px;
+	
+}
+
+.MyMarginBottom{
+	margin-bottom: 20px;
+	
+}
+
+
+.MyWidth{
+	width: 100%;
+	
+}
+
+.MyWidth2{
+	width: 80%;
+	height: 30px;
+	border-radius: 3px;
+	border:2px;
+
+}
+
+.MyBack{
+	background-color:#79b260;
+	padding:4px;
+	border-radius: 3px;
+}
+
+.MyMarginLeft2 {
+	margin-left:5px;
+	
+}
+
+.MyButton{
+	background-color:#79b260;
+	border:0px;
+	height:auto;
+	padding: 0px 0px 0px 0px;
+	font-size: 17px;
+	color:#f8f8f8;
+	font-family: 'Quicksand', sans-serif;
+	
+	
+}
+
+.MyButton:hover{
+	border:0px;
+	text-decoration: underline;
+}
+
+.MyFont{
+	font-size: 30px;
+}
+
+.Border2{
+	border:1px solid #dedede;
+	
+}
+
+.Border3{
+	border-right:1px solid #dedede;
+	border-bottom:1px solid #dedede;
+	border-left:1px solid #dedede;
+	
+}
+
+ .Big{
+	 min-height: 550px;
+ }
+ 
+ .Big2{
+	color: white;
+    font-size: 50px;
+    transform: translateY(+200%);
+ }
+
+.Big3{
+	color: white;
+    font-size: 30px;
+    margin-top:200px;
+ }
+
+ 
+.MyBorder3:hover,
+.MyBorder3:focus
+{	
+	color:#f5f5f5;
+	background: linear-gradient(to bottom, #91d573, #7bb461);
+	cursor:pointer;
+	border-radius: 0px;
+}
+
+.MyColor3{
+	color:#292929;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+.MyColor4{
+	color:#292929;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+}
+
+.MyColor5{
+	color:#292929;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+}
+.MyColor5:hover,
+.MyColor5:focus{
+	cursor:pointer;
+	color:#292929;
+}
+
+
+.MyPaddingR{
+	padding-right:0px;
+}
+
+.MyPaddingL{
+	padding-left:0px;
+}
+
+.Price{
+	color:#f05356;
+	font-size: 25px;
+	
+}
+
+.Hov:hover,
+.Hov:focus{
+	color:#f5f5f5;
+	background: linear-gradient(to bottom, #91d573, #7bb461);
+	cursor:pointer;
+	border-radius: 0px;
+}
+
+.MyTabs{
+	color:#292929;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+.MyTabs:hover,
+.MyTabs:focus{
+	color:#f5f5f5;
+	background: linear-gradient(to bottom, #91d573, #7bb461);
+	cursor:pointer;
+	border-radius: 0px;
+}
+
+.ColorFuter1{
+	background-color:#424242;
+	
+}
+
+.ColorFuter2{
+	color:#fff;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+.ColorFuter3{
+	color:#fff;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 10px;
+}
